@@ -1,0 +1,11 @@
+# Watchlist inicial
+
+AAPL
+MSFT
+NVDA
+SPY
+QQQ
+TSLA
+AMZN
+GOOGL
+META
